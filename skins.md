@@ -6,4 +6,5 @@ a collection of osu! skins i frequently rotate between! click for a direct downl
 # [aristia](https://www.dropbox.com/scl/fi/iz2jy8v8unng3aji4mnt6/aristia.osk?rlkey=3fsrp2h6jcaz2t7mouidsbvrm&st=lnuq478o&dl=0)
 ![aristia](https://github.com/user-attachments/assets/eed4dbd5-da99-4273-a0ae-9a0ae6b77c0c)
 
-
+# [default+](https://www.dl.dropboxusercontent.com/scl/fi/3x7wvr6rk9ts979iixvqa/default.osk?rlkey=iqz1fgejdm68szpyuakgeskae&st=wqdt4m8a&dl=0)
+![default](https://github.com/user-attachments/assets/caca84eb-a436-4823-bee3-26bb461ba74a)
