@@ -8,3 +8,6 @@ a collection of osu! skins i frequently rotate between! click the names for a di
 
 # [default+](https://www.dl.dropboxusercontent.com/scl/fi/3x7wvr6rk9ts979iixvqa/default.osk?rlkey=iqz1fgejdm68szpyuakgeskae&st=wqdt4m8a&dl=0)
 ![default](https://github.com/user-attachments/assets/caca84eb-a436-4823-bee3-26bb461ba74a)
+
+# [sstar aristia](https://www.dl.dropboxusercontent.com/scl/fi/oz5j4fjjdnf7a3jw9hpos/sstar-aristia.osk?rlkey=a7fc5xxbgi61xs5x8zoz0gc0i&st=kssr5hgr&dl=0)
+![sstar aristia](https://github.com/user-attachments/assets/0eefe582-3122-4f5d-8289-ccdf49c94808)
