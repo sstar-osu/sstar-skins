@@ -11,3 +11,6 @@ a collection of osu! skins i frequently rotate between! click the names for a di
 
 # [sstar aristia](https://www.dl.dropboxusercontent.com/scl/fi/oz5j4fjjdnf7a3jw9hpos/sstar-aristia.osk?rlkey=a7fc5xxbgi61xs5x8zoz0gc0i&st=kssr5hgr&dl=0)
 ![sstar aristia](https://github.com/user-attachments/assets/0eefe582-3122-4f5d-8289-ccdf49c94808)
+
+# [azerite](https://www.dl.dropboxusercontent.com/scl/fi/vtfvyxkrfgbbygxqobbku/azerite.osk?rlkey=srn6l011lp56cn04utu0xupnt&st=nlzdck1d&dl=0)
+![azerite](https://github.com/user-attachments/assets/54c3e8a2-0cfa-4737-a713-7592106aa081)
