@@ -1,6 +1,6 @@
 a collection of osu! skins i frequently rotate between! click the names for a direct download ^_^
 
-# [sstar](https://www.dl.dropboxusercontent.com/scl/fi/jze1nvm3p5cau36a5kk8j/sstar.osk?rlkey=p940tv5k5u9prka0bby1rgbcl&st=zwqywtq4&dl=0)
+# [sstar](https://www.dl.dropboxusercontent.com/scl/fi/vtt3uj5uog96uied2duub/sstar.osk?rlkey=g52mc6ybedxu74qrs6mf2qrn5&st=pbtk1fw4&dl=0)
 ![sstar](https://github.com/user-attachments/assets/9c3b640b-0573-47c1-85b9-520a9f150e32)
 
 # [aristia](https://www.dl.dropboxusercontent.com/scl/fi/iz2jy8v8unng3aji4mnt6/aristia.osk?rlkey=3fsrp2h6jcaz2t7mouidsbvrm&st=lnuq478o&dl=0)
